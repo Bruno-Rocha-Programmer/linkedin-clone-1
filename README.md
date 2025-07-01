@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Live: https://www.linkedin.com/in/bruno-robert-7595a8361/
+Live: https://linkedin-clone-1-1.onrender.com/login
 
 About This Course:
 
