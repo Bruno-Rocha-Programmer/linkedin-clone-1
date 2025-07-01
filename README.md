@@ -2,6 +2,8 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+Live: https://www.linkedin.com/in/bruno-robert-7595a8361/
+
 About This Course:
 
 - 🚀 Project Setup
